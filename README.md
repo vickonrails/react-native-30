@@ -16,18 +16,18 @@ I'm beginning with a 30-days-of-react-native for the month of September. My goal
 
 ## Le'go 🚀🚀🚀
 
-- [x] Day 1
-- [x] Day 2
-- [x] Day 3
-- [x] Day 4
-- [x] Day 5
-- [x] Day 6
-- [x] Day 7
-- [x] Day 8
-- [ ] Day 9
-- [ ] Day 10
-- [ ] Day 11
-- [ ] Day 12
+- [x] [Day 1](https://github.com/vickOnRails/react-native-30/blob/master/days/01.md)
+- [x] [Day 2](https://github.com/vickOnRails/react-native-30/blob/master/days/02.md)
+- [x] [Day 3](https://github.com/vickOnRails/react-native-30/blob/master/days/03.md)
+- [x] [Day 4](https://github.com/vickOnRails/react-native-30/blob/master/days/04.md)
+- [x] [Day 5](https://github.com/vickOnRails/react-native-30/blob/master/days/05.md)
+- [x] [Day 6](https://github.com/vickOnRails/react-native-30/blob/master/days/06.md)
+- [x] [Day 7](https://github.com/vickOnRails/react-native-30/blob/master/days/07.md)
+- [x] [Day 8](https://github.com/vickOnRails/react-native-30/blob/master/days/08.md)
+- [x] [Day 9](https://github.com/vickOnRails/react-native-30/blob/master/days/09.md)
+- [x] [Day 10](https://github.com/vickOnRails/react-native-30/blob/master/days/10.md)
+- [x] [Day 11](https://github.com/vickOnRails/react-native-30/blob/master/days/11.md)
+- [x] [Day 12](https://github.com/vickOnRails/react-native-30/blob/master/days/12.md)
 - [ ] Day 13
 - [ ] Day 14
 - [ ] Day 15
