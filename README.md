@@ -33,10 +33,11 @@ I'm beginning with a 30-days-of-react-native for the month of September. My goal
 - [x] [Day 15](https://github.com/vickOnRails/react-native-30/blob/master/days/15.md)
 - [x] [Day 16](https://github.com/vickOnRails/react-native-30/blob/master/days/16.md)
 - [ ] Day 17
-- [ ] Day 18
-- [x] Day 19
-- [ ] Day 21
-- [ ] Day 22
+- [x] [Day 18](https://github.com/vickOnRails/react-native-30/blob/master/days/18.md)
+- [] Day 19
+- [x] [Day 20](https://github.com/vickOnRails/react-native-30/blob/master/days/20.md)
+- [] Day 21
+- [x] [Day 22](https://github.com/vickOnRails/react-native-30/blob/master/days/22.md)
 - [ ] Day 22
 - [ ] Day 23
 - [ ] Day 24
