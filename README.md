@@ -14,6 +14,8 @@ I'm beginning with a 30-days-of-react-native for the month of September. My goal
   4. Challenges
   5. Tomorrow's focus
 
+**Update (6/10/20)**: It's been incredibly difficult to commit to the this daily exercise (given my day job and other activities). My goal with this exercise was to absorb a lot of knowledge in the smallest time possible. Things got shaky after the first 20 days, while I wasn't pleased that, I'm totally grateful for what I've learned in this very short time. I'm currently working on the [alarm clock](https://github.com/vickOnRails/wakie) as part of my goal for this exercise.
+
 ## Le'go 🚀🚀🚀
 
 - [x] [Day 1](https://github.com/vickOnRails/react-native-30/blob/master/days/01.md)
@@ -34,9 +36,9 @@ I'm beginning with a 30-days-of-react-native for the month of September. My goal
 - [x] [Day 16](https://github.com/vickOnRails/react-native-30/blob/master/days/16.md)
 - [ ] Day 17
 - [x] [Day 18](https://github.com/vickOnRails/react-native-30/blob/master/days/18.md)
-- [] Day 19
+- [ ] Day 19
 - [x] [Day 20](https://github.com/vickOnRails/react-native-30/blob/master/days/20.md)
-- [] Day 21
+- [ ] Day 21
 - [x] [Day 22](https://github.com/vickOnRails/react-native-30/blob/master/days/22.md)
 - [ ] Day 22
 - [ ] Day 23
